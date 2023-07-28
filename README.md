@@ -1,6 +1,9 @@
 # Vechicle-Number-Plate-Detection
 Detetcting Vechicle's number plates using MATLAB
 
+![flow](https://github.com/xtrahue/Vechicle-Number-Plate-Detection/assets/108055347/ebef1bc4-7bd9-4fc4-ae37-455bc9a0a60c)
+
+
 #Output
 
 
